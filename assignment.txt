@@ -1,0 +1,12 @@
+task 8th dec
+Activity 1
+step1: create a local repo
+step2: create 3 files in main branch
+step3: create repo in git hub
+step4: push changes in git hub
+
+activity 2
+study what is different ways og git hub cloning authentication prospective
+
+1.https
+2.ssh
