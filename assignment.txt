@@ -10,3 +10,5 @@ study what is different ways og git hub cloning authentication prospective
 
 1.https
 2.ssh
+
+how to add repo
